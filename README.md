@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**rslucena/rslucena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Rodrigo Lucena from Brazil (🇧🇷). 
 
-Here are some ideas to get you started:
+I have been working with Back-End and Front-End development for over 10 years and am currently a technical leader at [Sonartrade](https://sonartrade.com.br), being responsible for the entire team, Back-end and its project structure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also working at [Academia do Psicologo](http://academiadopsicologo.com.br/), with design, programming and development [psico.club](https://psico.club/). 
+
+I really like what I do, both in the Front-End and Back-End.
+
+In my free time I like to play online (FPS, Strategy), watch movies(🎞️),  series (📺), to read books (📚). I can not live without music (🎵) and eventually I like to philosophize about life (🤯) 
+
+
+Me on social networks (🔗):
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigolucena)](https://www.linkedin.com/in/rodrigolucena)
+
+Long live PHP ⚡ ❤️
