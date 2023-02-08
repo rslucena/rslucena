@@ -2,9 +2,9 @@
 
 My name is Rodrigo Lucena from Brazil (🇧🇷). 
 
-I have been working with Back-End and Front-End development for over 15 years and am currently a technical leader at [Sonartrade](https://sonartrade.com.br), [Chamleo](#), being responsible for the entire team, Back-end and its project structure.
+Other projects: [CheckHouse](https://www.checkhousevistoria.com.br/)
 
-I am also working at [Academia do Psicologo](http://academiadopsicologo.com.br/), with design, programming and development [psico.club](https://psico.club/). And other projects such as [CheckHouse](https://www.checkhousevistoria.com.br/) and [Coaching Psychology](https://coachingpsychology.com.br/).
+Ongoing open source projects [Docker-Template](https://github.com/rslucena/Docker-Template)
 
 I really like what I do, both in the Front-End and Back-End.
 
