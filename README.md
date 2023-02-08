@@ -1,14 +1,17 @@
-### Hi there 👋
-
 My name is Rodrigo Lucena from Brazil (🇧🇷). 
 
-Other projects: [CheckHouse](https://www.checkhousevistoria.com.br/)
+I have been working with Back-End and Front-End development for over 15 years and am currently a technical leader at [Sonartrade](https://sonartrade.com.br), [Chamleo](#), being responsible for the entire team, Back-end and its project structure.
 
-Ongoing open source projects [Docker-Template](https://github.com/rslucena/Docker-Template)
+Other projects:
+
+  [CheckHouse](https://www.checkhousevistoria.com.br/) BackEnd / FrontEnd
+
+ [Docker-Template](https://github.com/rslucena/Docker-Template) Open source projects: BackEnd / FrontEnd
 
 I really like what I do, both in the Front-End and Back-End.
 
 In my free time I like to play online (FPS, Strategy), watch movies(🎞️),  series (📺), to read books (📚). I can not live without music (🎵) and eventually I like to philosophize about life (🤯) 
+
 
 Me on social networks (🔗):
 
