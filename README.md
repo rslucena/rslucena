@@ -1,12 +1,12 @@
 My name is Rodrigo Lucena from Brazil (🇧🇷). 
 
-I have been working with Back-End and Front-End development for over 15 years and am currently a technical leader at [Sonartrade](https://sonartrade.com.br), [Chamleo](#), being responsible for the entire team, Back-end and its project structure.
+I have been working with Back-End and Front-End development for over 15 years and am currently a technical leader at [Sonartrade](https://play.google.com/store/search?q=sonartrade&c=apps&hl=pt_BR&gl=US), [Chamleo](https://play.google.com/store/apps/details?id=com.chamleo.ch&hl=pt_BR&gl=US), being responsible for the entire team, Back-end and its project structure.
 
-Other projects:
+Templates:
 
-  [CheckHouse](https://www.checkhousevistoria.com.br/) BackEnd / FrontEnd
+[Typescript](https://github.com/rslucena/Template-Typescript)
 
- [Docker-Template](https://github.com/rslucena/Docker-Template) Open source projects: BackEnd / FrontEnd
+[PHP](https://github.com/rslucena/Docker-Template-PHP) 
 
 I really like what I do, both in the Front-End and Back-End.
 
