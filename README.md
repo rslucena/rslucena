@@ -4,9 +4,9 @@ I have been working with Back-End and Front-End development for over 15 years an
 
 Templates:
 
-[Typescript](https://github.com/rslucena/Template-Typescript)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) Minimalistic project template to jump start a Node. [show me.](https://github.com/rslucena/Template-Typescript)
 
-[PHP](https://github.com/rslucena/Docker-Template-PHP) 
+- ![PHP](https://img.shields.io/badge/-PHP-3178C6?logo=php&logoColor=white) A simple structure used as a basis for creating new projects. The main idea is to have a quick project start and evolve as needed. [show me.](https://github.com/rslucena/Docker-Template-PHP)
 
 I really like what I do, both in the Front-End and Back-End.
 
