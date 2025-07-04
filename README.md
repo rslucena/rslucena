@@ -1,18 +1,40 @@
-My name is Rodrigo Lucena from Brazil (🇧🇷). 
+# Rodrigo Lucena 🇧🇷
 
-I have been working with Back-End and Front-End development for over 15 years and am currently a technical leader at [Sonartrade](https://play.google.com/store/search?q=sonartrade&c=apps&hl=pt_BR&gl=US), [Chamleo](https://play.google.com/store/apps/details?id=com.chamleo.ch&hl=pt_BR&gl=US), being responsible for the entire team, Back-end and its project structure.
+My name is **Rodrigo Lucena**, I'm from Brazil.
 
-Templates:
+I’m a **Backend Software Engineer** and **Technical Leader** with over 15 years of experience in designing, developing, and scaling complex, high-performance systems. I hold a **Bachelor’s degree in Computer Science** from *Faculdade Anhanguera* and I'm currently pursuing a **postgraduate degree in Strategic Software Engineering Management** at the *Universidad Europea del Atlántico*.
 
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) Minimalistic project template to jump start a Node. [show me.](https://github.com/rslucena/Template-Typescript)
+---
 
-- ![PHP](https://img.shields.io/badge/-PHP-3178C6?logo=php&logoColor=white) A simple structure used as a basis for creating new projects. The main idea is to have a quick project start and evolve as needed. [show me.](https://github.com/rslucena/Docker-Template-PHP)
+I'm highly skilled in backend development with strong proficiency in [**PHP**](https://github.com/php), [**TypeScript**](https://github.com/microsoft/TypeScript), and modern frameworks like [**Workerman**](https://github.com/walkor/workerman) and [**Swoole**](https://github.com/swoole/swoole-src). I have solid experience working across multiple runtimes including [**Node.js**](https://github.com/nodejs/node), [**Bun**](https://github.com/oven-sh/bun), and [**Deno**](https://github.com/denoland/deno).
 
-I really like what I do, both in the Front-End and Back-End.
+My expertise includes **monolithic**, **microservices**, **pub/sub**, and **self-managed monorepo architectures**. I'm proficient in high-performance messaging systems like [**RabbitMQ**](https://github.com/rabbitmq/rabbitmq-server) and [**NATS**](https://github.com/nats-io/nats-server).
 
-In my free time I like to play online (FPS, Strategy), watch movies(🎞️),  series (📺), to read books (📚). I can not live without music (🎵) and eventually I like to philosophize about life (🤯) 
+I work comfortably with both SQL and NoSQL databases, including [**MySQL**](https://github.com/mysql/mysql-server), [**PostgreSQL**](https://github.com/postgres/postgres), and [**MongoDB**](https://github.com/mongodb/mongo), as well as serverless and cloud-oriented solutions like [**Turso (SQLite)**](https://github.com/libsql/libsql) and [**PlanetScale (MySQL)**](https://github.com/planetscale).
 
+I'm experienced in building and integrating with **RESTful APIs**, **Sockets**, **WebSockets**, and **Streams**, especially for handling large-scale real-time data — with a strong focus on stock and cryptocurrency markets.
 
-Me on social networks (🔗):
+Currently, I lead and develop the backend of an **automated trading execution platform**, which processes buy/sell recommendations across global markets (NYSE, NASDAQ, NSE, BSE, B3, and Forex), bridging users, financial complexity, and brokers in real time.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigolucena)](https://www.linkedin.com/in/rodrigolucena)
+---
+
+## 🧩 Project Templates
+
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) A minimalistic project template to quickly kickstart Node.js development. [View project](https://github.com/rslucena/Template-Typescript)
+
+- ![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white) A simple project boilerplate designed for fast bootstrapping and scalable evolution. [View project](https://github.com/rslucena/Docker-Template-PHP)
+
+---
+
+## 💡 About Me
+
+In my spare time, I enjoy:  
+🎮 Playing online games (FPS & strategy)  
+🎞️ Watching movies  
+📺 Following series
+
+---
+
+## 🔗 Let's Connect
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigolucena)](https://www.linkedin.com/in/rodrigolucena)
